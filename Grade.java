@@ -1,7 +1,7 @@
 import java.util.Scanner;
 class Grade {
-    public static void main(String[] args);
-      Scanner scn = new Scanner(System.in);
+    public static void main(String[] args){
+        Scanner scn = new Scanner(System.in);
       int marks = scn.nextInt();
       if(marks > 90){
         System.out.println("O");
@@ -15,4 +15,7 @@ class Grade {
       }else{
         System.out.println("C");
       }
+
+    }
+      
 }
