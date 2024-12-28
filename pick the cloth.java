@@ -1,4 +1,4 @@
-class Main {
+class Lesson2 {
     public static void main(String[] args) {
         boolean sunny = true;
         boolean hot = false;
