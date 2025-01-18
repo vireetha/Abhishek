@@ -13,7 +13,7 @@ class primesTilln{
                 }
             }
             if(count==0){
-                System.out.println(n);
+                System.out.println(i);
             }
         }
     }
